@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2FC297-8E86-41D2-9E19-BF2F9CE78556}|Highrollers Crown.vcxproj|C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD2FC297-8E86-41D2-9E19-BF2F9CE78556}|Highrollers Crown.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2FC297-8E86-41D2-9E19-BF2F9CE78556}|Highrollers Crown.vcxproj|C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\printFuncs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD2FC297-8E86-41D2-9E19-BF2F9CE78556}|Highrollers Crown.vcxproj|solutionrelative:printFuncs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2FC297-8E86-41D2-9E19-BF2F9CE78556}|Highrollers Crown.vcxproj|C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\printFuncs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD2FC297-8E86-41D2-9E19-BF2F9CE78556}|Highrollers Crown.vcxproj|solutionrelative:printFuncs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2FC297-8E86-41D2-9E19-BF2F9CE78556}|Highrollers Crown.vcxproj|C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\validateInput.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD2FC297-8E86-41D2-9E19-BF2F9CE78556}|Highrollers Crown.vcxproj|solutionrelative:validateInput.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2FC297-8E86-41D2-9E19-BF2F9CE78556}|Highrollers Crown.vcxproj|C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\getFuncs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD2FC297-8E86-41D2-9E19-BF2F9CE78556}|Highrollers Crown.vcxproj|solutionrelative:getFuncs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2FC297-8E86-41D2-9E19-BF2F9CE78556}|Highrollers Crown.vcxproj|C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\validateInput.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD2FC297-8E86-41D2-9E19-BF2F9CE78556}|Highrollers Crown.vcxproj|solutionrelative:validateInput.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2FC297-8E86-41D2-9E19-BF2F9CE78556}|Highrollers Crown.vcxproj|C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\askUserFuncs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD2FC297-8E86-41D2-9E19-BF2F9CE78556}|Highrollers Crown.vcxproj|solutionrelative:askUserFuncs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2FC297-8E86-41D2-9E19-BF2F9CE78556}|Highrollers Crown.vcxproj|C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\randomFuncs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD2FC297-8E86-41D2-9E19-BF2F9CE78556}|Highrollers Crown.vcxproj|solutionrelative:randomFuncs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2FC297-8E86-41D2-9E19-BF2F9CE78556}|Highrollers Crown.vcxproj|C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\getFuncs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD2FC297-8E86-41D2-9E19-BF2F9CE78556}|Highrollers Crown.vcxproj|solutionrelative:getFuncs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2FC297-8E86-41D2-9E19-BF2F9CE78556}|Highrollers Crown.vcxproj|C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\askUserFuncs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD2FC297-8E86-41D2-9E19-BF2F9CE78556}|Highrollers Crown.vcxproj|solutionrelative:askUserFuncs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2FC297-8E86-41D2-9E19-BF2F9CE78556}|Highrollers Crown.vcxproj|C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\randomFuncs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD2FC297-8E86-41D2-9E19-BF2F9CE78556}|Highrollers Crown.vcxproj|solutionrelative:randomFuncs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 181,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "validateInput.h",
+              "DocumentMoniker": "C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\validateInput.h",
+              "RelativeDocumentMoniker": "validateInput.h",
+              "ToolTip": "C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\validateInput.h",
+              "RelativeToolTip": "validateInput.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-30T21:31:08.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "validateInput.cpp",
+              "DocumentMoniker": "C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\validateInput.cpp",
+              "RelativeDocumentMoniker": "validateInput.cpp",
+              "ToolTip": "C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\validateInput.cpp",
+              "RelativeToolTip": "validateInput.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-30T21:30:45.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "getFuncs.cpp",
+              "DocumentMoniker": "C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\getFuncs.cpp",
+              "RelativeDocumentMoniker": "getFuncs.cpp",
+              "ToolTip": "C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\getFuncs.cpp",
+              "RelativeToolTip": "getFuncs.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-29T16:46:45.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAALIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-29T18:06:46.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "printFuncs.h",
+              "DocumentMoniker": "C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\printFuncs.h",
+              "RelativeDocumentMoniker": "printFuncs.h",
+              "ToolTip": "C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\printFuncs.h",
+              "RelativeToolTip": "printFuncs.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T17:05:53.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "printFuncs.cpp",
+              "DocumentMoniker": "C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\printFuncs.cpp",
+              "RelativeDocumentMoniker": "printFuncs.cpp",
+              "ToolTip": "C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\printFuncs.cpp",
+              "RelativeToolTip": "printFuncs.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-29T17:05:42.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "askUserFuncs.h",
+              "DocumentMoniker": "C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\askUserFuncs.h",
+              "RelativeDocumentMoniker": "askUserFuncs.h",
+              "ToolTip": "C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\askUserFuncs.h",
+              "RelativeToolTip": "askUserFuncs.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T16:59:22.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "askUserFuncs.cpp",
+              "DocumentMoniker": "C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\askUserFuncs.cpp",
+              "RelativeDocumentMoniker": "askUserFuncs.cpp",
+              "ToolTip": "C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\askUserFuncs.cpp",
+              "RelativeToolTip": "askUserFuncs.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-29T16:59:08.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "getFuncs.h",
+              "DocumentMoniker": "C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\getFuncs.h",
+              "RelativeDocumentMoniker": "getFuncs.h",
+              "ToolTip": "C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\getFuncs.h",
+              "RelativeToolTip": "getFuncs.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T16:46:55.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "randomFuncs.h",
+              "DocumentMoniker": "C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\randomFuncs.h",
+              "RelativeDocumentMoniker": "randomFuncs.h",
+              "ToolTip": "C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\randomFuncs.h",
+              "RelativeToolTip": "randomFuncs.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-26T18:21:17.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "randomFuncs.cpp",
+              "DocumentMoniker": "C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\randomFuncs.cpp",
+              "RelativeDocumentMoniker": "randomFuncs.cpp",
+              "ToolTip": "C:\\Users\\Ahto\\source\\repos\\Highrollers Crown\\randomFuncs.cpp",
+              "RelativeToolTip": "randomFuncs.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-26T18:21:04.169Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
